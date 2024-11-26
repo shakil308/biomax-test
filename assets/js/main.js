@@ -65,26 +65,34 @@ const swiper = new Swiper('.test-slider', {
         prevEl: '.swiper-button-prev',
     },
     breakpoints: {
-        300: {
+        0: {
             slidesPerView: 2,
             spaceBetween: 4,
         },
-        400: {
+        350: {
+            slidesPerView: 3,
+            spaceBetween: 4,
+        },
+        490: {
             slidesPerView: 4,
             spaceBetween: 4,
         },
-    
+
         576: {
             slidesPerView: 5,
             spaceBetween: 4,
         },
 
         780: {
-            slidesPerView: 9,
+            slidesPerView: 6,
             spaceBetween: 16,
         },
 
-        1440: {
+        990: {
+            slidesPerView: 8,
+            spaceBetween: 20,
+        },
+        1120: {
             slidesPerView: 9,
             spaceBetween: 20,
         },
@@ -93,14 +101,15 @@ const swiper = new Swiper('.test-slider', {
 
 // mobile menu 
 
-   // mobile menu 
-   $(document).ready(function() {
-    $('.mobile-menu-bar').click(function(){
+// mobile menu 
+$(document).ready(function () {
+    $('.mobile-menu-bar').click(function () {
         $(".biomax-mobile-menu").addClass("biomax-mobile-menu-open");
         $(".menu-overlay").addClass("menu-overlay-open");
     });
-    $('.mobile-menu-close-icon').click(function(){
+    $('.mobile-menu-close-icon').click(function () {
         $(".biomax-mobile-menu").removeClass("biomax-mobile-menu-open");
         $(".menu-overlay").removeClass("menu-overlay-open");
     });
 });
+

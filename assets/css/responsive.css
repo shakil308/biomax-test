@@ -121,8 +121,9 @@
     .light-comparision-text::before {
         left: 0;
     }
+
     .specification-table-box {
-        grid-template-columns: repeat(5,210px);
+        grid-template-columns: repeat(5, 210px);
     }
 
     .light-comparision-text>p {
@@ -198,7 +199,7 @@
         max-width: 550px;
     }
 
-    .product-stand-content > h3 {
+    .product-stand-content>h3 {
         font-size: 63px;
         letter-spacing: -4.54px;
         line-height: 55px;
@@ -238,13 +239,15 @@
     .header-menu ul li a {
         font-size: 16px;
     }
+
     .specification-table-box {
         overflow: hidden;
     }
+
     .faq-main-content {
         overflow: hidden;
     }
-    
+
 
     .header-menu ul li {
         padding: 20px 3px;
@@ -266,12 +269,14 @@
     .product-slide-img>img {
         width: 100%;
     }
+
     .mega-menu-img {
 
         width: 160px;
         height: 160px;
 
     }
+
     .swiper-horizontal>.swiper-pagination-bullets,
     .swiper-pagination-bullets.swiper-pagination-horizontal,
     .swiper-pagination-custom,
@@ -498,30 +503,37 @@
         margin: 0 auto;
         padding: 0 15px;
     }
+
     .shop-cart {
         padding: 10px;
         padding-bottom: 23px;
     }
+
     .currency-list {
         right: -25%;
     }
+
     .mobile-menu-bar {
         position: absolute;
         top: 45px;
         left: 15px;
     }
+
     .currency-selcetion span {
         font-size: 18px;
     }
+
     .currency-selcetion {
         width: 112px;
         position: relative;
         margin: 0 auto;
         margin-top: -18px;
     }
+
     .header-cart {
         margin-top: 10px;
     }
+
     .product-slide-img img {
         width: 100%;
     }
@@ -588,9 +600,11 @@
         max-width: 100%;
         padding: 0 60px;
     }
+
     .specification-table-box-wrapper {
         overflow: hidden;
     }
+
     .faq-main-content {
         overflow: hidden;
     }
@@ -603,6 +617,7 @@
         margin-bottom: 60px;
         padding-left: 45px;
     }
+
     .shop-cart {
         margin-left: 14px;
     }
@@ -740,10 +755,10 @@
     }
 
     .biomax-stand-item-wrapper {
-	padding-right: 0px;
-	padding-left: 20px;
-	overflow: hidden;
-}
+        padding-right: 0px;
+        padding-left: 20px;
+        overflow: hidden;
+    }
 
     .biomax-stand-btn>a {
         padding: 8px 20px;
@@ -755,10 +770,11 @@
         font-size: 20px;
     }
 
-    .faq-heading > h3 {
+    .faq-heading>h3 {
         font-size: 60px;
         padding-left: 15px;
     }
+
     .powerful-therapy-area {
         overflow: hidden;
     }
@@ -796,48 +812,68 @@
     .comparison-chart-title h3 {
         font-size: 80px;
     }
-    .therapy-text > h4 {
+
+    .therapy-text>h4 {
         font-size: 40px;
     }
+
     .cta-element-wrapper {
         padding: 70px 10px;
     }
+
     .currency-selcetion span {
         font-size: 18px;
 
     }
+
+    .product-details-area {
+        padding: 40px 0px 12px 0px;
+    }
+
+    .powerful-therapy-area {
+        overflow: hidden;
+    }
+
     .biomax-stand-item-wrapper {
         padding-right: 0px;
         padding-left: 20px;
         overflow: hidden;
     }
+
     .currency-list {
         left: 36%;
     }
+
     .shop-cart {
         padding: 10px;
         padding-bottom: 23px;
     }
+
     .currency-selcetion {
         width: 112px;
         position: relative;
         margin: 0 auto;
         margin-top: -18px;
     }
+
     .specification-container {
         overflow: hidden;
     }
+
     .specification-table-box-wrapper {
         overflow: hidden;
     }
+
     .specification-table-box {
         overflow: hidden;
     }
+
     .mobile-menu-bar {
         position: absolute;
         top: 45px;
         left: 15px;
     }
+
     .header-cart {
         margin-top: 10px;
     }
@@ -861,9 +897,11 @@
     .productBtn {
         margin-left: 0;
     }
+
     .biomax-stand-item {
-        margin-right:0;
+        margin-right: 0;
     }
+
     .product-price {
         padding-right: 15px;
     }
@@ -877,37 +915,47 @@
     .product-cart>span {
         font-size: 18px;
     }
+
     .support-item {
         flex-direction: column;
     }
+
     .support-item-text h4 {
         text-align: center;
     }
-    .therapy-box > p {
+
+    .therapy-box>p {
         max-width: 85%;
     }
+
     .product-price-btn {
         padding: 13px 51px;
     }
-    .purchase-link span > i {
+
+    .purchase-link span>i {
         font-size: 17px;
     }
+
     .product-optional-link {
         padding: 10px 13px;
         width: 265px;
         line-height: 1.3;
     }
+
     .product-details-info-wrapper .product-offer {
         margin-top: 45px;
     }
+
     .customer-support-area {
         padding-top: 90px;
         padding-bottom: 60px;
     }
+
     .support-container {
         max-width: 100%;
         padding: 0 20px;
     }
+
     .light-comparision-heading .light-title {
         font-size: 60px;
         line-height: 60px;
@@ -916,39 +964,47 @@
         margin-bottom: 40px;
         padding-left: 10px;
     }
-    .light-comparision-text > p {
+
+    .light-comparision-text>p {
         font-size: 25px;
         padding-left: 10px;
         padding-right: 20px;
     }
-    
+
     .light-comparison-chart {
         margin-top: 40px;
         padding-top: 100px;
         padding-left: 10px;
         padding-right: 10px;
     }
+
     .comparison-list ul li {
         padding-left: 10px;
     }
+
     .comparison-list ul li {
         font-size: 17px;
     }
+
     .comparison-heading {
         margin-top: 250px;
     }
+
     .section-title h2 {
         font-size: 48px;
         letter-spacing: 0;
         line-height: 1;
     }
-    .section-title h2 > span {
+
+    .section-title h2>span {
         font-size: 65px;
     }
+
     .section-title .desc {
         font-size: 20px;
         padding: 0 10px;
     }
+
     .therapy-box {
         padding-top: 80px;
         flex-direction: column;
@@ -956,127 +1012,167 @@
         padding-left: 10px;
         padding-right: 10px;
     }
+
     .product-quality-area {
         padding-right: 10px;
         padding-left: 10px;
+        overflow: hidden;
     }
+
+    .light-comparison-area {
+        display: none;
+    }
+
+    header {
+        overflow: hidden;
+    }
+
     .product-specification-area {
         margin: 0 10px;
         border-radius: 25px;
+        overflow: hidden;
     }
+
     .technical-left-side {
         padding-left: 20px;
     }
-    .technical-left-content h2 > span {
+
+    .technical-left-content h2>span {
         font-size: 55px;
         line-height: 45px;
         letter-spacing: -1.099px;
     }
+
     .technical-area-wrapper {
         grid-template-rows: auto;
         grid-template-columns: auto;
     }
+
     .technical-video video {
         padding: 0 10px;
         border-radius: 10px;
     }
+
     .therapy-item-wrapper {
         padding-left: 10px;
         padding-right: 10px;
     }
-    .therapy-text > h4 {
+
+    .therapy-text>h4 {
         font-size: 45px;
         letter-spacing: 0.25px;
         max-width: 150px;
         line-height: 1;
     }
-    .app-link > a {
+
+    .app-link>a {
         font-size: 15px;
         padding: 9px 18px;
     }
+
     .product-features-area {
         padding: 100px 0 80px 25px;
         border-radius: 25px;
     }
-    .product-features-title > h3 {
+
+    .product-features-title>h3 {
         font-size: 70px;
         line-height: 65px;
-  
+
     }
+
     .product-features-wrapper {
         background-size: contain;
     }
+
     .products-stand-wrapper {
         grid-template-columns: auto;
         grid-template-rows: auto;
     }
-    .product-stand-content > h3 {
+
+    .product-stand-content>h3 {
         font-size: 41px;
         padding-left: 8px;
         margin-top: 25px;
     }
-    .product-stand-content > h3 {
+
+    .product-stand-content>h3 {
         margin-bottom: 45px;
     }
-    .technical-btn > a {
+
+    .technical-btn>a {
         font-size: 16px;
         padding: 10px 20px;
         margin-left: 10px;
     }
+
     .biomax-stand-item-wrapper {
-        padding-right:10px;
+        padding-right: 10px;
         padding-left: 10px;
     }
+
     .accordion-button {
-        padding-left: 40px; 
-        font-size: 28px; 
+        padding-left: 40px;
+        font-size: 28px;
         line-height: 35px;
     }
-    .faq-heading > h3 {
+
+    .faq-heading>h3 {
         font-size: 65px;
     }
-    .testimonial-heading > h3 {
+
+    .testimonial-heading>h3 {
         font-size: 60px;
         line-height: 66px;
         letter-spacing: -3.099px;
     }
+
     .testimonial-review-area {
         flex-direction: column;
         align-items: start !important;
     }
+
     .testimonial-wrapper {
         /* padding-left: 10px; */
         padding-right: 10px;
     }
-    .testimonial-search > span {
+
+    .testimonial-search>span {
         font-size: 16px;
     }
+
     .buyer-review-list-wrapper {
         padding: 15px;
     }
+
     .buyer-review-list-wrapper {
         padding: 15px;
         grid-template-columns: auto;
     }
+
     .pagination-item {
         margin-top: 40px;
     }
+
     .cta-element-item {
         grid-template-columns: auto;
         gap: 20px;
     }
-    
+
     .cta-element-wrapper {
         padding: 78px 10px;
     }
-    .cta-head-title > h3 {
+
+    .cta-head-title>h3 {
         font-size: 38px;
     }
+
     .footer-box-wrapper {
         padding: 85px 35px;
         overflow: hidden;
     }
-    .footer-title > h4 {
+
+    .footer-title>h4 {
         font-size: 24px;
         margin-bottom: 5px;
     }
@@ -1092,63 +1188,87 @@
         margin: 0 auto;
         padding: 0 15px;
     }
+
     .shop-cart {
         margin-left: 10px;
     }
+
     .biomax-mobile-menu {
         width: 100%;
     }
+
     .mobile-menu-wrapper {
         display: flex;
         justify-content: space-between;
         width: 400px;
         padding-top: 30px;
     }
+
     .product-quantity {
         margin-right: 5px;
     }
+
     .plus-btn {
         padding: 0px 1px;
     }
+
     .minus-btn {
         padding: 5px 1px;
     }
+
     .header-area-title .slide-text {
         font-weight: 500;
         font-size: 9px;
     }
+
     .specification-table-box-wrapper {
         overflow: hidden;
     }
+
+    .powerful-therapy-area {
+        overflow: hidden;
+    }
+
+    .light-comparison-area {
+        overflow: hidden;
+    }
+
     .mobile-menu-bar {
         position: absolute;
         top: 45px;
         left: 15px;
     }
+
     .currency-selcetion {
         width: 112px;
         position: relative;
         margin: 0 auto;
         margin-top: -18px;
     }
+
     .currency-list {
         left: 36%;
     }
+
     .header-cart {
         margin-top: 10px;
     }
+
     .biomax-stand-item-wrapper {
         padding-right: 0px;
         padding-left: 20px;
         overflow: hidden;
     }
+
     .currency-selcetion span {
         font-size: 18px;
     }
+
     .shop-cart {
         padding: 10px;
         padding-bottom: 23px;
     }
+
     .product-slide-img {
         padding-left: 0;
     }
@@ -1156,7 +1276,7 @@
     .product-slide-img img {
         width: 100%;
     }
-    
+
 
     .product-details-info-wrapper {
         padding-left: 10px;
@@ -1169,9 +1289,11 @@
     .productBtn {
         margin-left: 0;
     }
+
     .biomax-stand-item {
-        margin-right:0;
+        margin-right: 0;
     }
+
     .product-price {
         padding-right: 15px;
     }
@@ -1189,25 +1311,31 @@
     .product-price-btn {
         padding: 13px 12px;
     }
-    .purchase-link span > i {
+
+    .purchase-link span>i {
         font-size: 17px;
     }
+
     .product-optional-link {
         padding: 10px 13px;
         width: 265px;
         line-height: 1.3;
     }
+
     .product-details-info-wrapper .product-offer {
         margin-top: 45px;
     }
+
     .customer-support-area {
         padding-top: 90px;
         padding-bottom: 60px;
     }
+
     .support-container {
         max-width: 100%;
         padding: 0 20px;
     }
+
     .light-comparision-heading .light-title {
         font-size: 60px;
         line-height: 60px;
@@ -1216,39 +1344,47 @@
         margin-bottom: 40px;
         padding-left: 10px;
     }
-    .light-comparision-text > p {
+
+    .light-comparision-text>p {
         font-size: 25px;
         padding-left: 10px;
         padding-right: 20px;
     }
-    
+
     .light-comparison-chart {
         margin-top: 40px;
         padding-top: 100px;
         padding-left: 10px;
         padding-right: 10px;
     }
+
     .comparison-list ul li {
         padding-left: 10px;
     }
+
     .comparison-list ul li {
         font-size: 17px;
     }
+
     .comparison-heading {
         margin-top: 250px;
     }
+
     .section-title h2 {
         font-size: 48px;
         letter-spacing: 0;
         line-height: 1;
     }
-    .section-title h2 > span {
+
+    .section-title h2>span {
         font-size: 65px;
     }
+
     .section-title .desc {
         font-size: 20px;
         padding: 0 10px;
     }
+
     .therapy-box {
         padding-top: 80px;
         flex-direction: column;
@@ -1256,129 +1392,161 @@
         padding-left: 10px;
         padding-right: 10px;
     }
+
     .product-quality-area {
         padding-right: 10px;
         padding-left: 10px;
+        overflow: hidden;
     }
+
     .product-specification-area {
         margin: 0 10px;
         border-radius: 25px;
+        overflow: hidden;
     }
+
     .technical-left-side {
         padding-left: 20px;
     }
-    .technical-left-content h2 > span {
+
+    .technical-left-content h2>span {
         font-size: 55px;
         line-height: 45px;
         letter-spacing: -1.099px;
     }
+
     .technical-area-wrapper {
         grid-template-rows: auto;
         grid-template-columns: auto;
     }
+
     .technical-video video {
         padding: 0 10px;
         border-radius: 10px;
     }
+
     .therapy-item-wrapper {
         padding-left: 10px;
         padding-right: 10px;
     }
-    .therapy-text > h4 {
+
+    .therapy-text>h4 {
         font-size: 21px;
         letter-spacing: 0.25px;
         max-width: 150px;
         line-height: 1;
     }
-    .app-link > a {
+
+    .app-link>a {
         font-size: 15px;
         padding: 9px 18px;
     }
+
     .product-features-area {
         padding: 100px 0 80px 25px;
         border-radius: 25px;
     }
-    .product-features-title > h3 {
+
+    .product-features-title>h3 {
         font-size: 70px;
         line-height: 65px;
-  
+
     }
+
     .product-features-wrapper {
         background-size: contain;
     }
+
     .products-stand-wrapper {
         grid-template-columns: auto;
         grid-template-rows: auto;
     }
-    .product-stand-content > h3 {
+
+    .product-stand-content>h3 {
         font-size: 41px;
         padding-left: 8px;
         margin-top: 25px;
     }
-    .product-stand-content > h3 {
+
+    .product-stand-content>h3 {
         margin-bottom: 45px;
     }
-    .technical-btn > a {
+
+    .technical-btn>a {
         font-size: 16px;
         padding: 10px 20px;
         margin-left: 10px;
     }
+
     .biomax-stand-item-wrapper {
-        padding-right:10px;
+        padding-right: 10px;
         padding-left: 10px;
     }
+
     .accordion-button {
-        padding-left: 40px; 
-        font-size: 28px; 
+        padding-left: 40px;
+        font-size: 28px;
         line-height: 35px;
     }
-    .faq-heading > h3 {
+
+    .faq-heading>h3 {
         font-size: 65px;
     }
-    .testimonial-heading > h3 {
+
+    .testimonial-heading>h3 {
         font-size: 60px;
         line-height: 66px;
         letter-spacing: -3.099px;
     }
+
     .testimonial-review-area {
         flex-direction: column;
         align-items: start !important;
     }
+
     .testimonial-wrapper {
         padding-left: 10px;
         padding-right: 10px;
     }
-    .testimonial-search > span {
+
+    .testimonial-search>span {
         font-size: 16px;
     }
+
     .buyer-review-list-wrapper {
         padding: 15px;
     }
+
     .buyer-review-list-wrapper {
         padding: 15px;
         grid-template-columns: auto;
     }
+
     .pagination-item {
         margin-top: 40px;
     }
+
     .cta-element-item {
         grid-template-columns: auto;
         gap: 20px;
     }
-    
+
     .cta-element-wrapper {
         padding: 50px 10px;
         border-radius: 0;
 
     }
-    .cta-head-title > h3 {
+
+    .cta-head-title>h3 {
         font-size: 38px;
     }
+
     .footer-box-wrapper {
         padding: 65px 25px;
         overflow: hidden;
     }
-    .footer-title > h4 {
+
+    .footer-title>h4 {
         font-size: 24px;
         margin-bottom: 5px;
     }
